@@ -5,7 +5,7 @@ A GenAI automation system that helps students overcome digital distractions by g
 
 An AI-powered productivity automation system that helps students overcome social media distraction by converting wasted screen time into structured study plans, task prioritization, exam summaries, and revision quizzes.
 
-Built for **TarkoHack 2026 – Automation through GenAI** 🏆
+Built for **Turbo Haq 2026 – Automation through GenAI** 🏆
 
 ---
 
